@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922553817342",
+    "project_id": "auth-e9cb0",
+    "storage_bucket": "auth-e9cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922553817342:android:945940eeb496c20b85adaf",
+        "android_client_info": {
+          "package_name": "com.edmund96.googleAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922553817342-i9pdcd5klq0g46h91hfg1o4g6jmc48vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edmund96.googleAuth",
+            "certificate_hash": "7294883b2f0cb1f5300d982aeb0e0fbba1dcae8e"
+          }
+        },
+        {
+          "client_id": "922553817342-vihn7nd345f639andbkannstdigqk8ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edmund96.googleAuth",
+            "certificate_hash": "3656e0eb98fd15c9bac0e19d1c4fa809da19c227"
+          }
+        },
+        {
+          "client_id": "922553817342-hehk6ml53p3nuntg5mugdammdgpv199m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApBUHvKIaXWjZLQZRfIp-UuuGNEG23UpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922553817342-hehk6ml53p3nuntg5mugdammdgpv199m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
